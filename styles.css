@@ -152,7 +152,11 @@ table {
 
 th {
   text-align: left;
-  padding: 0.5rem 1.5rem;
+  padding: 1rem 1.5rem;
+}
+
+.label {
+  font-weight: 400;
 }
 
 .number {
