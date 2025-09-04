@@ -72,6 +72,13 @@ hr {
   box-shadow: 4px 4px 2px 2px rgb(48, 45, 44, 35%);
 }
 
+@media screen and (max-width: 575px) {
+  .main-container {
+    margin: 0;
+    border-radius: 0;
+  }
+}
+
 .header-container {
   /* background-color: coral; */
   display: flex;
